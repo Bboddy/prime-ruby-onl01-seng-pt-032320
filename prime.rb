@@ -1,5 +1,7 @@
-def prime?(array)
-  array.any? {
-    |num|
-  }
+def prime?(num)
+  if num
+    
+  else
+    return FALSE
+  end
 end
